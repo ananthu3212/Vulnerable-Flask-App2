@@ -13,4 +13,3 @@ RUN pip install --no-cache-dir \
     sqlalchemy==1.1.11 || true
 EXPOSE 5050
 CMD ["python", "app.py"]
-#comment
